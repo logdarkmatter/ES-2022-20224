@@ -9,8 +9,8 @@
 * User story estimation using Poker Planning with Fibonnaci voting system.
 
 **PRE-REQUISITES**:
-* Teorical lecture and classes slide deck;
-* Ensemble a group of 1-4 people;
+* Teorical lecture and practical classes slide deck;
+* Ensemble a group of 1-4 people and give a funny name to your team;
 * Create an account in [Trello](https://forms.gle/yTsVwecqnvaTNtWKA) you can use an existing account, university or personal email address;
 * For the Poker Planning go to [link](https://planningpokeronline.com);
     * Th
@@ -107,6 +107,14 @@ Let us see some examples of user stories (Epics, Features and User Story) in thi
 | E2TU1 | As a Net Banking Administrator, I want to have the customer’s data backed up so that I can restore it any time in case of issues |
 | E2TU2 | As a Net Banking application, I want to shake hands with another bank using a specific formatted XML so that funds can be transferred based on the customers’ needs |
 
+
+**Example of an Agile Planning Roadmap**
+
+![image](./images/user_story_mapping.png)
+
+
+**Summary in video format**
+In the following [link](https://www.youtube.com/watch?v=LEPLaYcdgeg) you can find video that summarizes all of the above concepts.
 
 # Activity 🤿
 
