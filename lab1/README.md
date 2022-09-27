@@ -174,7 +174,32 @@ In Planning Poker Estimation Technique, estimates for the user stories are deriv
 
 # Exercise - Part 3/4 (Scrum/Kanban Board workflow, User Stories prioritization & Group U/S into Sprints) 🈺
 
-**TBD**
+A Kanban board is an agile project management tool designed to help visualize work, limit work-in-progress, and maximize efficiency (or flow). It can help Agile teams establish order in their daily work. Kanban boards use cards, columns, and continuous improvement to help technology and service teams commit to the right amount of work, and get it done!
+
+1. **Visual Signals** — One of the first things you’ll notice about a kanban board are the visual cards (stickies, tickets, or otherwise). Kanban teams write all of their projects and work items onto cards, usually one per card. For agile teams, each card could encapsulate one user story. Once on the board, these visual signals help teammates and stakeholders quickly understand what the team is working on;
+2. **Columns** — Another hallmark of the kanban board are the columns. Each column represents a specific activity that together compose a “workflow”. Cards flow through the workflow until completion. Workflows can be as simple as “To Do,” “In Progress,” “Complete,” or much more complex;
+3. **Work In Progress (WIP) Limits** — WIP limits are the maximum number of cards that can be in one column at any given time. A column with a WIP limit of three cannot have more than three cards in it. When the column is “maxed-out” the team needs to swarm on those cards and move them forward before new cards can move into that stage of the workflow. These WIP limits are critical for exposing bottlenecks in the workflow and maximizing flow. WIP limits give you an early warning sign that you committed to too much work;
+4. **Commitment point** — Kanban teams often have a backlog for their board. This is where customers and teammates put ideas for projects that the team can pick up when they are ready. The commitment point is the moment when an idea is picked up by the team and work starts on the project;
+5. **Delivery point** — The delivery point is the end of a kanban team’s workflow. For most teams, the delivery point is when the product or service is in the hands of the customer. The team’s goal is to take cards from the commitment point to the delivery point as fast as possible. The elapsed time between the two is the called Lead Time. Kanban teams are continuously improving to decrease their lead time as much as possible. 
+
+**PRE-REQUISITES** 👓:
+1. Part 1 and 2 **completed**;
+2. Understand the purpose of a board in Scrum/Kanban and it's components;
+3. Have the Kanban board workspace in Trello created.
+
+**Let's start** 🏁:
+1. Together picture which states do you think it makes sense, while you are developing a feature, to be present visibly in the board columns and create those columns;
+   * Ensure you predict undesired scenarios;
+   * Comparing to a state machine can be helpful;
+   * Ensure critical Scrum components are contemplated in this board;
+   * Make usage of **labels** in Trello, they will be helpful for some organization 🤓
+2. Take a look at the User Stories you created in Part 1 and define priorities, which stories should be done first, last and in between;
+   * One way of doing this is to group US subjects as a whole and see from a higher level respective;
+3. Now that you have the US grouped, it's time to ensemble the course of action through the weeks/months;
+   * Think of Sprints as 2 weeks of work;
+   * Remember when we talked about **labels**? 😉 Now it's a good time to put in practice;
+   * Organize the cards in the board to be visible which are going to be done in the first Sprint. Assume you will start the first sprint in the time you are doing this laboratory;
+4. Review the whole process until now and picture in the long term to see it gathers all requirements.
 
 
 # Exercise - Part 4/4 (Which Agile methodologies would you use for the development of your Systems?) 🎁
@@ -192,7 +217,7 @@ Countless methodologies follow this Agile mindset like e.g. - Scrum, Kanban, Ext
     * Create a new card in Trello with the following text: - (Methodology name ) - Presentation;
     * Open the new card and upload the presentation as an attachement;
 3. Prepare to present to the class the outcome of your work;
-4. The intier class will evaluate your work on a Poker Planning game with the scale of 1 to 5.
+4. The intire class will evaluate your work on a Poker Planning game with the scale of 1 to 5.
 
 
 # Good Luck!! 🍀 
