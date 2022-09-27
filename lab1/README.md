@@ -8,14 +8,6 @@
 * Understanding User Stories sizes using Story Points;
 * User story estimation using Poker Planning with Fibonnaci voting system.
 
-**PRE-REQUISITES**:
-* Teorical lecture and practical classes slide deck;
-* Ensemble a group of 1-4 people and give a funny name to your team;
-* Create an account in [Trello](https://forms.gle/yTsVwecqnvaTNtWKA) you can use an existing account, university or personal email address;
-* For the Poker Planning go to [link](https://planningpokeronline.com);
-    * Th
-
-
 # Let's start with some theory 🤓
 
 **What is a User Story?** 
@@ -113,14 +105,94 @@ Let us see some examples of user stories (Epics, Features and User Story) in thi
 ![image](./images/user_story_mapping.png)
 
 
-**Summary in video format**
+**Summary in video format** 📼
 In the following [link](https://www.youtube.com/watch?v=LEPLaYcdgeg) you can find video that summarizes all of the above concepts.
 
-# Activity 🤿
+# Exercise - Part 1/4 (Requirements Gathering with User Stories) 🤿
+
+**PRE-REQUISITES** 👓:
+* Theoretical lecture and practical classes slide deck;
+* Carefully read and comprehend the User Story concept as stated above;
+* Create an account in [Trello](https://forms.gle/yTsVwecqnvaTNtWKA) you can use an existing account, university or personal email address;
+
+**Let's start** 🏁:
+1. Form a group of 2 to 4 students and give a funny name to your team;
+2. Go to Trello and create a board with our team name;
+    * Share the board with all team members and professors (p5617@ulusofona.pt - Pedro Perdigão & p5932@ulusofona.pt - Rui Santos);
+    * Create a "To do" column and create a new card with:
+        * Exercise Scrum Role - (Stakeholder(1-N), Product Owner(1), Technical Architect(0-N));
+        * Our full-name;
+        * Student number;
+
+3. Brainstrom with your team for one of the following (or your own) systems: WhatsApp, Facebook, Google mail (or similar, MBWay, a computer game, a shop that sells custom-made shirts, Uber, Travel Agency (Booking/AirBnB), etc. Your team **must identify** the following items:
+    * 1 epics;
+    * 3 features for the related epic;
+    * 10 user stories for each feature;
+    * 2 technical user stories for each feature.
+
+4. Before your team starts brainstorming the user stories, write down on a new Trello card one a sentence that briefly characterising the purpose/value of your system.
+
+**Notes**:
+* Do not brainstorm the same system as	any	of your neighboring	teams;
+* Make sure your team has at least 2 roles (stakeholder & PO) - (better	3+);
+* Make sure	that the 10	user stories fulfill the **INVEST**	criteria;
+* Remember to keep them in the correct format: “As a ____, I need a ____ in order to ____”.
+
+# Exercise - Part 2/4 (Estimating User Stories using Poker Planning with Fibonnaci voting system) 🗳️
+
+Planning Poker is a consensus-based technique for estimating, mostly used to estimate effort or relative size of user stories in Scrum.
+
+**Rules of the Game** 🎲
+
+In Planning Poker Estimation Technique, estimates for the user stories are derived by playing planning poker. The entire Scrum team is involved and it results in quick but reliable estimates.
+
+* Planning Poker is played with a deck of cards. As Fibonacci sequence is used, the cards have numbers - 1, 2, 3, 5, 8, 13, 21, 34, etc. These numbers represent the “Story Points”. Each estimator has a deck of cards. The numbers on the cards should be large enough to be visible to all the team members, when one of the team members holds up a card.
+* One of the team members is selected as the Moderator. The moderator reads the description of the user story for which estimation is being made. If the estimators have any questions, product owner answers them.
+* Each estimator privately selects a card representing his or her estimate. Cards are not shown until all the estimators have made a selection. At that time, all cards are simultaneously turned over and held up so that all team members can see each estimate.
+* In the first round, it is very likely that the estimations vary. The high and low estimators explain the reason for their estimates. Care should be taken that all the discussions are meant for understanding only and nothing is to be taken personally. The moderator has to ensure the same.
+* The team can discuss the story and their estimates for a few more minutes.
+* The moderator can take notes on the discussion that will be helpful when the specific story is developed. After the discussion, each estimator re-estimates by again selecting a card. Cards are once again kept private until everyone has estimated, at which point they are turned over at the same time.
+
+**PRE-REQUISITES** 👓:
+1. Part 1 **completed**;
+2. Watch the following [video](https://www.youtube.com/watch?v=TxSzo3lwwWQ);
+3. Understand the rules of Poker Planning;
+
+**Let's start** 🏁:
+1. For Poker Planning use the following tool [link](https://planningpokeronline.com);
+    * The Product Owner clicks "Start New Game" and will lead the Poker Planning session;
+    * Give a name and choose a Fibonacci voting system;
+    * Click invite players and share the game URL between your team members;
+    * Wait that everyone to join the game lobby.
+    * **Card values:** Do not make any agreement on the meaning of the value of each card.
+2. Now perform a voting round per each user story you have written in the part 1/4;
+3. Add the estimation value to the User Story Trello card - You can add the estimation value directly on the title or in the description of the card;
+4. Evaluate our estimations and take conclusions.
+
+**Notes**
+* Refinement and slicing: Some user stories have things in common. Check if they can detect and separate them into other stories or slice stories into smaller stories.
+
+# Exercise - Part 3/4 (Scrum/Kanban Board workflow, User Stories prioritization & Group U/S into Sprints) 🈺
+
+**TBD**
 
 
+# Exercise - Part 4/4 (Which Agile methodologies would you use for the development of your Systems?) 🎁
+
+**PRE-REQUISITES** 👓:
+* Part 1, 2 and 3 **completed**;
+
+Countless methodologies follow this Agile mindset like e.g. - Scrum, Kanban, Extreme Programming (XP), Lean Development and Crystal.
+
+1. Prepare a brief PowerPoint presentation about one of the above methodology that covers the following points:
+    * Summary of the chosen methodology;
+    * The reason why your team would benefit from choosing that specific methodology; 
+    * Advantages & Disadvantages of the chosen methodology.
+2. After your presentation is concluded:
+    * Create a new card in Trello with the following text: - (Methodology name ) - Presentation;
+    * Open the new card and upload the presentation as an attachement;
+3. Prepare to present to the class the outcome of your work;
+4. The intier class will evaluate your work on a Poker Planning game with the scale of 1 to 5.
 
 
-
-
-
+# Good Luck!! 🍀 
