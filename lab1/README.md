@@ -113,7 +113,7 @@ In the following [link](https://www.youtube.com/watch?v=LEPLaYcdgeg) you can fin
 **PRE-REQUISITES** 👓:
 * Theoretical lecture and practical classes slide deck;
 * Carefully read and comprehend the User Story concept as stated above;
-* Create an account in [Trello](https://forms.gle/yTsVwecqnvaTNtWKA) you can use an existing account, university or personal email address;
+* Create an account in [Trello](https://trello.com/) you can use an existing account, university or personal email address;
 
 **Let's start** 🏁:
 1. Form a group of 2 to 4 students and give a funny name to your team;
@@ -128,7 +128,7 @@ In the following [link](https://www.youtube.com/watch?v=LEPLaYcdgeg) you can fin
     * 1 epics;
     * 3 features for the related epic;
     * 10 user stories for each feature;
-    * 2 technical user stories for each feature.
+    * 2 technical user stories for each epic.
 
 4. Before your team starts brainstorming the user stories, write down on a new Trello card one a sentence that briefly characterising the purpose/value of your system.
 
@@ -184,8 +184,9 @@ A Kanban board is an agile project management tool designed to help visualize wo
 
 **PRE-REQUISITES** 👓:
 1. Part 1 and 2 **completed**;
-2. Understand the purpose of a board in Scrum/Kanban and it's components;
-3. Have the Kanban board workspace in Trello created.
+2. What the [video](https://www.youtube.com/watch?v=RN6bAkUfq-M);
+3. Understand the purpose of a board in Scrum/Kanban and it's components;
+4. Have the Kanban board workspace in Trello created.
 
 **Let's start** 🏁:
 1. Together picture which states do you think it makes sense, while you are developing a feature, to be present visibly in the board columns and create those columns;
