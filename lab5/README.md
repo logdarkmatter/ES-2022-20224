@@ -127,9 +127,14 @@ As an example, on your road trip through Arizona, you might run across a speed t
 **Let's start** 🏁:
 1. With the same group you formed in the previous labs... 
 2. In your Trello board in the column "UML" create a new Trello card column named "Class Diagram";
-3. Look into your Conceptual Diagram done in [Laboratory 4](https://github.com/logdarkmatter/ES-2022-2023/tree/main/lab4) and map or Conceptual Diagram into a new Class Diagram. Please make sure that you add access modifiers, types and enumerators to your attributes; also make sure you have the 3 mandatory sections in the diagram (Upper, middle and Bottom);
+3. Look into your Conceptual Diagram done in [Laboratory 4](https://github.com/logdarkmatter/ES-2022-2023/tree/main/lab4) and map yoor Conceptual Diagram into a new Class Diagram. Please make sure that you add access modifiers, types and enumerators to your attributes; also make sure you have the 3 mandatory sections in the diagram (upper, middle and bottom);
     * Please make sure you use as much a Domain-Driven Design approach where you can personify your classes and add operation to it.  
 4. After concluding your Conceptual ERD, export it as a PNG and import the image into our new card "Class Diagram";
 
+
+**Tools**
+* You can use:
+    * [Diagrams.net aka Draw.io](https://app.diagrams.net/);
+    * [Visual Paradigm](https://www.visual-paradigm.com/download/community.jsp).
 
 # Good Luck!! 🍀 
