@@ -1,6 +1,6 @@
 **UNIVERSIDADE LUSÓFONA DE HUMANIDADES E TECNOLOGIAS**
 
-# Software Engineering - Laboratory 6: 🥼 <br>*UX/UI - Wireframes*
+# Software Engineering - Laboratory 6: 🥼 <br>*UI/UX - Wireframes*
 
 **OBJECTIVE**: In this exercise, you will learn to:
 * Importance of design wireframes in projects; 
