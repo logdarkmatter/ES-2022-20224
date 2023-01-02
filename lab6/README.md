@@ -72,7 +72,7 @@ A wireframe is not the final version of the design. It serves as a starting poin
 
 ![Generic-Wireframe-2](./images/wireframe-generic-2.png)
 
-![Generic-Wireframe-3](./images/wireframe-generic-3.png)
+![Generic-Wireframe-3](./images/wireframe-generic-3.PNG)
 
 
 # Exercise - Part 1/1 Create wireframes for your 3 features 🤿
