@@ -141,7 +141,7 @@ The following scenarios are ideal for using a sequence diagram:
         * Combinde fragments example:
             * ![Combided-Fragment](./images/combided-fragment.PNG)
 
-# Sequence Diagram Examples:
+# Method Logic - Sequence Diagram Examples:
 
 ![Search Sequence Diagram](./images/search-seq-diagram.PNG)
 
@@ -167,8 +167,13 @@ The following scenarios are ideal for using a sequence diagram:
 **Let's start** 🏁:
 1. With the same group you formed in the previous labs... 
 2. In your Trello board in the previously created column "UML" create a new Trello card column named "Sequence Diagrams";
-3. Now you must design .. (TBD);
-4. After concluding your diagrams, export them as a PNG and import the image into our new card "Sequence Diagrams".
+3. Now you must design **3 method logic diagrams** that represent a specific CRUD operation in or system;
+    * CRUD examples:
+        * Search data like Clients, Reservations, trips, etc;
+        * Save or Upadate data like clients, reservations, trips etc;
+        * Delete data like client, reservations, trips, etc. 
+4. Please ensure that in our 3 diagrams you have enough Lifelines (e.g: 4); Self Messages to represent functions in certain object, and fragments like alt or loop.
+5. After concluding your diagrams, export them as a PNG and import the image into our new card "Sequence Diagrams".
 
 
 **Tools**
