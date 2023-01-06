@@ -152,7 +152,7 @@ The following scenarios are ideal for using a sequence diagram:
 ![Loan Sequence Diagram](./images/load-seq-diagram.PNG)
 
 
-# Exercise - Part 1/1 Create sequence for 3 method logic diagrams 🤿
+# Exercise - Part 1/1 Create sequence diagrams for 3 data operations 🤿
 
 **PRE-REQUISITES** 👓:
 * Theoretical lecture and practical classes [slide deck](https://moodle.ensinolusofona.pt/mod/folder/view.php?id=116549);
