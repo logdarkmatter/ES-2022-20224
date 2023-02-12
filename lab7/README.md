@@ -152,7 +152,7 @@ The following scenarios are ideal for using a sequence diagram:
 ![Loan Sequence Diagram](./images/load-seq-diagram.PNG)
 
 
-# Exercise - Part 1/1 Create wireframes for your 3 features 🤿
+# Exercise - Part 1/1 Create sequence diagrams for 3 data operations 🤿
 
 **PRE-REQUISITES** 👓:
 * Theoretical lecture and practical classes [slide deck](https://moodle.ensinolusofona.pt/mod/folder/view.php?id=116549);
@@ -162,6 +162,7 @@ The following scenarios are ideal for using a sequence diagram:
 * Have completed the [Laboratory 3](https://github.com/logdarkmatter/ES-2022-2023/tree/main/lab3);
 * Have completed the [Laboratory 4](https://github.com/logdarkmatter/ES-2022-2023/tree/main/lab4);
 * Have completed the [Laboratory 5](https://github.com/logdarkmatter/ES-2022-2023/tree/main/lab5);
+* Have completed the [Laboratory 6](https://github.com/logdarkmatter/ES-2022-2023/tree/main/lab6);
 
 
 **Let's start** 🏁:
@@ -170,7 +171,7 @@ The following scenarios are ideal for using a sequence diagram:
 3. Now you must design **3 method logic diagrams** that represent a specific CRUD operation in or system;
     * CRUD examples:
         * Search data like Clients, Reservations, trips, etc;
-        * Save or Upadate data like clients, reservations, trips etc;
+        * Save or Update data like clients, reservations, trips etc;
         * Delete data like client, reservations, trips, etc. 
 4. Please ensure that in our 3 diagrams you have enough Lifelines (e.g: 4); Self Messages to represent functions in certain object, and fragments like alt or loop.
 5. After concluding your diagrams, export them as a PNG and import the image into our new card "Sequence Diagrams".
