@@ -116,7 +116,7 @@ In the following [link](https://www.youtube.com/watch?v=LEPLaYcdgeg) you can fin
 * Create an account in [Trello](https://trello.com/) you can use an existing account, university or personal email address;
 
 **Let's start** 🏁:
-1. Form a group of 2 to 4 students and give a funny name to your team;
+1. Form a group of 2 students and give a funny name to your team;
 2. Go to Trello and create a board with our team name;
     * Share the board with all team members and professors (p5617@ulusofona.pt - Pedro Perdigão & p5932@ulusofona.pt - Rui Santos);
     * Create a "To do" column and create a new card with:
