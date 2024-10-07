@@ -208,7 +208,7 @@ A Kanban board is an agile project management tool designed to help visualize wo
 **PRE-REQUISITES** 👓:
 * Part 1, 2 and 3 **completed**;
 
-Countless methodologies follow this Agile mindset like e.g. - Scrum, Kanban, Extreme Programming (XP), Lean Development and Crystal.
+Countless methodologies follow this Agile mindset like e.g. - Kanban, Extreme Programming (XP), Lean Development, Crystal, etc.
 
 1. Prepare a brief PowerPoint presentation about one of the above methodology that covers the following points:
     * Summary of the chosen methodology;
